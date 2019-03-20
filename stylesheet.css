@@ -1,0 +1,16 @@
+body {
+    background-image: url("iop.jpg");
+    background-size: cover;
+   }
+
+#centretext {
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#captio {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 590px;
+    font-size: 25px;
+}
